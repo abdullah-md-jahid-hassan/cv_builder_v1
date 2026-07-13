@@ -1,0 +1,76 @@
+{
+  "name": "Steven Terry",
+  "job_title": "Graphic Designer",
+  "photo": "",
+  "personal_info": {
+    "gender": "Male",
+    "date_of_birth": "May 19, 1992",
+    "phone": "986-2323-3434",
+    "email": "Steven@3223.com",
+    "website": "Http://steven-info.me",
+    "address": "London, England"
+  },
+  "skills": [
+    { "category": "Computer", "details": "Word, Excel, Power Point." },
+    { "category": "Languages", "details": "English, Japanese, Chinese" }
+  ],
+  "honors_awards": [
+    { "year": "2013", "description": "TOPCV Scholarship in 2nd semester 2012-2013 and 1st semester 2013-2014." }
+  ],
+  "certifications": [
+    { "year": "2018", "description": "TOEIC Certificate with score 800 issued by TOPCV" }
+  ],
+  "interests": "I like soccer, music..",
+  "objective": "Take advantages of sales skills & experience and understanding of market to become a professional Sales Staff and bring a lot value to Customers. From that, I will contribute to development of TOPCV Company.",
+  "education": [
+    {
+      "institution": "TOPCV University",
+      "major": "Corporate Administration",
+      "gpa": "3.4",
+      "start_date": "Oct 2010",
+      "end_date": "May 2014"
+    },
+    {
+      "institution": "TOPCV University",
+      "major": "Corporate Administration",
+      "gpa": "3.4",
+      "start_date": "Oct 2010",
+      "end_date": "May 2014"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "TopCV JSC",
+      "role": "Digital Marketing",
+      "start_date": "2016",
+      "end_date": "Present",
+      "details": [
+        "Write and upload product advertising post via Facebook, Forum...",
+        "Introduce, consult products and answer customers' queries via phone and email."
+      ]
+    },
+    {
+      "company": "TopCV Shop",
+      "role": "Sales man",
+      "start_date": "2016",
+      "end_date": "Present",
+      "details": [
+        "Sell goods for Foreigners and Vietnamese at the Shop",
+        "Advertise products on media publications such as: banner, posters, leaflets...",
+        "Make reports of sales every day."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "TOPCV - EDUCATION TALK 2014",
+      "role": "Member of US Ambassador",
+      "start_date": "2013",
+      "end_date": "2017",
+      "details": [
+        "Organize monthly events, network with US alumni.",
+        "Share how to hunt scholarships and US student's life experiences to all students who have received offers from US universities."
+      ]
+    }
+  ]
+}

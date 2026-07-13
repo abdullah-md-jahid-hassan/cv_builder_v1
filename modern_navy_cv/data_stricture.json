@@ -1,0 +1,54 @@
+{
+  "name": "Max Johnson",
+  "job_title": "UX Designer",
+  "photo": "",
+  "contact": {
+    "address": "New York, USA",
+    "phone": "+1 2345 6789",
+    "email": "max.johnson@email.com"
+  },
+  "skills": ["Figma", "Adobe XD", "Sketch", "InVision", "Photoshop"],
+  "languages": ["English", "French", "Russian"],
+  "hobbies": ["Photography", "Football", "Cooking"],
+  "profile": "Experienced UX Designer specializing in user research, interaction design, and prototyping. Committed to crafting intuitive and visually compelling digital experiences that captivate users. A problem-solver who combines creativity with data-driven insights to drive innovation.",
+  "work_experience": [
+    {
+      "title": "Senior UX Designer",
+      "company": "ABC Tech Solutions",
+      "location": "New York",
+      "start_date": "Jan 2020",
+      "end_date": "Dec 2022",
+      "achievements": [
+        "Led UX team for mobile banking app, boosting user engagement by 30% in six months.",
+        "Conducted in-depth user research, reducing e-commerce cart abandonment by 25% through redesign."
+      ]
+    },
+    {
+      "title": "UX Designer",
+      "company": "XYZ Design Agency",
+      "location": "Texas",
+      "start_date": "Jan 2018",
+      "end_date": "Dec 2019",
+      "achievements": [
+        "Collaborated with diverse clients to align designs with business objectives, achieving a 15% boost in healthcare app user satisfaction.",
+        "Conducted impactful user tests on a financial site, pinpointing pain points and driving a 20% surge in conversion rates."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in HCI",
+      "institution": "New York University",
+      "location": "New York",
+      "start_date": "Jan 2016",
+      "end_date": "Dec 2018"
+    },
+    {
+      "degree": "Bachelor of Science in UX Design",
+      "institution": "University of Washington",
+      "location": "Washington",
+      "start_date": "Jan 2011",
+      "end_date": "Dec 2015"
+    }
+  ]
+}

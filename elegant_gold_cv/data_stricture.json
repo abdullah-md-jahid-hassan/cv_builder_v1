@@ -1,0 +1,81 @@
+{
+  "first_name": "Larry",
+  "last_name": "Tibbetts",
+  "job_title": "Job title",
+  "photo": "",
+  "summary": "Describe in a few lines your career path, your key skills for the position and your career goals. This is actually an introduction to your cover letter. Describe in a few lines your career path, your key skills for the position and your career goals. This is actually an introduction to your cover letter.",
+  "contact": {
+    "phone": "+44 (0)20 7666 8555",
+    "email": "larry.tibbetts@mail.com",
+    "location": "London, England",
+    "linkedin": "/larry.tibbetts"
+  },
+  "skills": [
+    "Project management",
+    "Strong decision maker",
+    "Complex problem solver",
+    "Creative design",
+    "Service-focused",
+    "Lorem Ipsum",
+    "Lorem Ipsum"
+  ],
+  "languages": [
+    { "name": "Spanish", "level": "C2" },
+    { "name": "Chinese", "level": "A1" },
+    { "name": "German", "level": "A2" }
+  ],
+  "hobbies": ["Writing", "Sketching", "Photography"],
+  "experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Jan 2020",
+      "end_date": "current",
+      "responsibilities": [
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement"
+      ]
+    },
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Jan 2020",
+      "end_date": "current",
+      "responsibilities": [
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement"
+      ]
+    },
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Jan 2020",
+      "end_date": "current",
+      "responsibilities": [
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement",
+        "Key responsibility or achievement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science: Computer Information Systems",
+      "year": "2014",
+      "institution": "Columbia University, NY"
+    },
+    {
+      "degree": "Bachelor of Science: Computer Information Systems",
+      "year": "2014",
+      "institution": "Columbia University, NY"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Steven Terry",
+  "job_title": "Graphic Designer",
+  "photo": "",
+  "personal_info": {
+    "gender": "Male",
+    "date_of_birth": "May 19, 1992",
+    "phone": "986-2323-3434",
+    "email": "Steven@3223.com",
+    "website": "Http://steven-info.me",
+    "address": "London, England"
+  },
+  "skills": [
+    { "category": "Computer", "details": "Word, Excel, Power Point." },
+    { "category": "Languages", "details": "English, Japanese, Chinese" }
+  ],
+  "special_qualifications": [
+    "Computer office course completed.",
+    "Self-motivated and quick perception.",
+    "Efficient in working under pressure."
+  ],
+  "specializations": [
+    "Leadership",
+    "Creativity & Adaptability",
+    "Time management"
+  ],
+  "language_proficiency": [
+    { "language": "English", "reading": "High", "writing": "High", "speaking": "High" },
+    { "language": "Japanese", "reading": "High", "writing": "Medium", "speaking": "Medium" }
+  ],
+  "interests": [
+    "Interested in creative work.",
+    "Interested in travelling.",
+    "I like soccer, music."
+  ],
+  "objective": "Take advantages of sales skills & experience and understanding of market to become a professional Sales Staff and bring a lot value to Customers. From that, I will contribute to development of TOPCV Company.",
+  "career_summary": "I have been working in the design industry for almost five years in creative and marketing departments and obtained strong design and communication skills.",
+  "total_experience": "5 Years",
+  "work_experience": [
+    {
+      "designation": "Digital Marketing Officer",
+      "company": "TopCV JSC",
+      "location": "London, England",
+      "department": "Digital Marketing",
+      "buyers": "Client A, Client B, Client C",
+      "product_category": "Banner, Poster, Leaflet",
+      "start_date": "2016",
+      "end_date": "Present",
+      "responsibilities": [
+        "Write and upload product advertising post via Facebook, Forum...",
+        "Introduce, consult products and answer customers' queries via phone and email."
+      ]
+    },
+    {
+      "designation": "Sales Man",
+      "company": "TopCV Shop",
+      "location": "London, England",
+      "department": "Sales",
+      "buyers": "Client A, Client B",
+      "product_category": "Banner, Poster",
+      "start_date": "2014",
+      "end_date": "2016",
+      "responsibilities": [
+        "Sell goods for Foreigners and Vietnamese at the Shop.",
+        "Advertise products on media publications such as: banner, posters, leaflets...",
+        "Make reports of sales every day."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "exam_title": "Bachelor of Science",
+      "major": "Corporate Administration",
+      "institution": "TOPCV University",
+      "result": "GPA 3.4 (out of 4.00)",
+      "pass_year": "2014",
+      "board": "TOPCV"
+    },
+    {
+      "exam_title": "High School Diploma",
+      "major": "Science",
+      "institution": "TOPCV High School",
+      "result": "GPA 4.5 (out of 5.00)",
+      "pass_year": "2010",
+      "board": "London"
+    }
+  ],
+  "trainings": [
+    {
+      "title": "Computer Literacy",
+      "topic": "MS Office, Internet Browsing",
+      "institute": "TOPCV Institute",
+      "location": "London",
+      "year": "2017",
+      "duration": "6 Months"
+    }
+  ],
+  "skills_qualities": [
+    "Exceptional motivational and leadership skills.",
+    "Ability to work well in a team.",
+    "Having excellent knowledge over MS Word, MS Excel and MS Power Point."
+  ],
+  "personal_details": [
+    { "label": "Name", "value": "Steven Terry" },
+    { "label": "Father's Name", "value": "John Terry" },
+    { "label": "Mother's Name", "value": "Anna Terry" },
+    { "label": "Permanent Address", "value": "London, England" },
+    { "label": "Date of Birth", "value": "May 19, 1992" },
+    { "label": "Nationality", "value": "British by Birth" },
+    { "label": "National ID No", "value": "0000000000" },
+    { "label": "Blood Group", "value": "A+(ve)" },
+    { "label": "Religion", "value": "N/A" },
+    { "label": "Marital Status", "value": "Unmarried" },
+    { "label": "Gender", "value": "Male" }
+  ],
+  "declaration": "I am the undersigned hereby declare that I will be the responsible for any wrong information provided here.",
+  "signature_name": "Steven Terry"
+}
